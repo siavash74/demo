@@ -1,2 +1,1 @@
-code
-
+print("hello")
